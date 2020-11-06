@@ -1,2 +1,2 @@
-for num in range(___, ___, ___):
+for num in range(3, 5, 7):
     print(num)
